@@ -1,3 +1,4 @@
+```
 <body>
     <div id="app">
         <script type="text/babel">
@@ -6,5 +7,6 @@
         </script>
     </div>
 </body>
+```
 
 render this (Hello React h1), in this location (app div)
